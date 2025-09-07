@@ -4,7 +4,7 @@ Tegu oli operastioonisüsteemid kursuse esimese praktikumiga. Aega kulus palju (
 
 <img width="422" height="409" alt="OS-praktikum1-2025-pic1" src="https://github.com/user-attachments/assets/2cbc4ae1-8ed4-484a-9b1a-7b3189f614ca" />
 
-<img width="959" alt="OS23_lab1b" src="https://github.com/user-attachments/assets/3d9d5f35-3072-4c13-b485-9fbd69059003">
+<img width="959" height="563" alt="OS-praktikum1-2025-pic2" src="https://github.com/user-attachments/assets/8d81990d-264d-45b1-8971-80342b2b380d" />
 
 
 Githubis saab pilte lisada drag-and-drop, paste ja markdown "![Alt text](image link)" abil 
