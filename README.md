@@ -1,3 +1,5 @@
 # LTAT.06.001 Operatsioonisüsteemid kursuse näidis Github repositoorium
 
-Tere tulemast Tartu Ülikooli operatsioonisüsteemid 2025 kursuse praktikumide dokumentatsiooni lehele. Õpilane Alo Peets on tubli ja plaanib kõik praktikumid kenasti ära teha. Iga praktikumi kohta koostab eraldi *.md nimelise alamfaili ja jagab kogu dokumentatsiooni projekti tervikuna õppejõududega mitte iga faili eraldi. Käesolev repositoorium on avalik, aga teised tudengid võivad koostada ka privaatse andmehoidla ja jagada selle õppejõu kontoga a**p@ut.ee . Kui on koostatud privaatne repositoorium on vaja see kindlasti ka õppejõududega jagada, sest muidu ei saa õppejõud seda hinnata. 
+Tere tulemast Tartu Ülikooli operatsioonisüsteemid 2026 kursuse praktikumide dokumentatsiooni lehele. Õpilane Alo Peets on tubli ja plaanib kõik praktikumid kenasti ära teha. Iga praktikumi kohta koostab eraldi *.md nimelise alamfaili ja jagab kogu dokumentatsiooni projekti tervikuna õppejõududega mitte iga faili eraldi. Käesolev repositoorium on avalik, aga teised tudengid võivad koostada ka privaatse andmehoidla ja jagada selle õppejõu kontoga a**p@ut.ee . Kui on koostatud privaatne repositoorium on vaja see kindlasti ka õppejõududega jagada, sest muidu ei saa õppejõud seda hinnata. 
+
+Kursuse praktikumide juhendid leiate siit: https://courses.cs.ut.ee/2026/os/fall/Main/Praktikumid
